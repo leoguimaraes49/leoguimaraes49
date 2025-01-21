@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu Perfil do GitHub
 
-Sou um desenvolvedor com sólida experiência em **Java**, **Python** e **C++**, atualmente cursando **Sistemas de Informação** na **Universidade Federal de Lavras (UFLA)**. Tenho grande interesse em resolver problemas complexos e em desenvolver soluções escaláveis, e agora estou iniciando minha jornada como estagiário na área de **Engenharia de Dados**.
+Sou um desenvolvedor com experiência em **Java**, **Python** e **C++**, atualmente cursando **Sistemas de Informação** na **Universidade Federal de Lavras (UFLA)**. Tenho grande interesse em resolver problemas complexos e em desenvolver soluções escaláveis, e agora estou iniciando minha jornada como estagiário na área de **Engenharia de Dados**.
 
 ---
 
