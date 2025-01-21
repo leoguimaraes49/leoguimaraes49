@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu Perfil do GitHub
 
-<!--
-**leoguimaraes49/leoguimaraes49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor com sólida experiência em **Java**, **Python** e **C++**, atualmente cursando **Sistemas de Informação** na **Universidade Federal de Lavras (UFLA)**. Tenho grande interesse em resolver problemas complexos e em desenvolver soluções escaláveis, e agora estou iniciando minha jornada como estagiário na área de **Engenharia de Dados**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades Técnicas
+
+### Linguagens de Programação:
+- **Java**: Desenvolvimento de aplicações robustas e escaláveis.
+- **Python**: Análise de dados, automação e aprendizado de máquina.
+- **C++**: Programação de alto desempenho e computação científica.
+
+### Tecnologias e Ferramentas:
+- **Bancos de Dados**: PostgreSQL, MySQL.
+- **Engenharia de Dados**: Apache Spark, Apache Kafka.
+- **Cloud Computing**: AWS (S3, Lambda).
+- **Versionamento de Código**: Git e GitHub.
+- **Metodologias Ágeis**: Scrum e Kanban.
+
+---
+
+## 🎯 Objetivos Profissionais
+
+- Aprofundar conhecimentos em **Engenharia de Dados** e **Big Data**.
+- Contribuir para projetos desafiadores e inovadores no setor de tecnologia.
+- Explorar mais ferramentas de **Machine Learning** aplicadas a análise de grandes volumes de dados.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)
+
+---
+
+
+_"Transformando ideias em soluções concretas e escaláveis."_ ✨
