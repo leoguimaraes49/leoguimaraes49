@@ -1,39 +1,33 @@
-# 👋 Bem-vindo ao meu Perfil do GitHub
+# Leonardo Guimarães Oliveira
 
-Sou um desenvolvedor com experiência em **Java**, **Python** e **C++**, atualmente cursando **Sistemas de Informação** na **Universidade Federal de Lavras (UFLA)**. Tenho grande interesse em resolver problemas complexos e em desenvolver soluções escaláveis, e agora estou iniciando minha jornada como estagiário na área de **Engenharia de Dados**.
+**Engenharia de Software · Arquitetura de Soluções com IA · Automações**
 
----
+Sou estudante de Sistemas de Informação na Universidade Federal de Lavras (UFLA), com experiência em desenvolvimento back-end e engenharia de dados na Compass UOL. Gosto de analisar problemas, organizar soluções e integrar componentes para transformar necessidades em sistemas úteis. Meu direcionamento atual reúne engenharia de software, soluções com IA e automação de processos.
 
-## 🛠️ Habilidades Técnicas
+## Áreas de atuação e interesse
 
-### Linguagens de Programação:
-- **Java**: Desenvolvimento de aplicações robustas e escaláveis.
-- **Python**: Análise de dados, automação e aprendizado de máquina.
-- **C++**: Programação de alto desempenho e computação científica.
+- Desenvolvimento de aplicações, APIs e integrações de sistemas.
+- Engenharia de dados: processamento, transformação, modelagem e consultas.
+- Arquitetura de software, automações e exploração de soluções com IA.
 
-### Tecnologias e Ferramentas:
-- **Bancos de Dados**: PostgreSQL, MySQL.
-- **Engenharia de Dados**: Apache Spark, Apache Kafka.
-- **Cloud Computing**: AWS (S3, Lambda).
-- **Versionamento de Código**: Git e GitHub.
-- **Metodologias Ágeis**: Scrum e Kanban.
+## Tecnologias
 
----
+- **Linguagens:** Java, Python, SQL, JavaScript e C++.
+- **Aplicações:** Spring Boot, Node.js e React.
+- **Dados:** PostgreSQL, MySQL, MongoDB e ETL.
+- **Infraestrutura e ferramentas:** AWS (S3, Glue, Athena e QuickSight), Docker, Git e GitHub; fundamentos de Kubernetes.
 
-## 🎯 Objetivos Profissionais
+## Projetos selecionados
 
-- Aprofundar conhecimentos em **Engenharia de Dados** e **Big Data**.
-- Contribuir para projetos desafiadores e inovadores no setor de tecnologia.
-- Explorar mais ferramentas de **Machine Learning** aplicadas a análise de grandes volumes de dados.
+- [Sistema de gerenciamento de chamados](https://github.com/leoguimaraes49/projeto-integrador-chamados) — projeto acadêmico em equipe com React, Node.js, PostgreSQL e RabbitMQ, incluindo decisões de arquitetura e testes.
+- [IA distribuída para áudio](https://github.com/leoguimaraes49/Trabalho-de-Sistemas-Distribuidos) — projeto acadêmico em Python que integra serviços de transcrição com Whisper e geração de música com MusicGen.
+- [Compass PB — Engenharia de Dados](https://github.com/leoguimaraes49/Compass_PB) — exercícios e desafios de formação organizados por sprint, com Python, SQL e serviços AWS.
+- [API Post Collector](https://github.com/leoguimaraes49/Desafio03_CompassUOL) — desafio de desenvolvimento back-end com Java, Spring Boot, persistência e integração com API externa.
 
----
+## Experiência e formação
 
-## 📈 Estatísticas do GitHub
+- **Compass UOL:** estágio em Engenharia de Dados (fev.–ago. 2025) e estágio em Desenvolvimento Back-end (maio–nov. 2023).
+- **UFLA:** Bacharelado em Sistemas de Informação, conclusão prevista para dezembro de 2026.
+- **IF Sudeste MG:** formação técnica em Informática.
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leoguimaraes49&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leoguimaraes49&layout=compact&theme=radical)
-
----
-
-
-_"Transformando ideias em soluções concretas e escaláveis."_ ✨
+[LinkedIn](https://www.linkedin.com/in/leo-guimaraes/) · [Todos os repositórios](https://github.com/leoguimaraes49?tab=repositories)
